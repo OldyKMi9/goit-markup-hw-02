@@ -41,7 +41,7 @@ body {
 
 }
 
-.header-nav-item :hover {
+.header-nav-item:hover {
     color: #f35d21;
 }
 
@@ -53,12 +53,12 @@ body {
     color: #2196F3;
 }
 
-/* HERO */
-.hero {
-    background-color: #2F303A;
+/* MAIN */
+.mainb-btn {
+   
 }
 
-.hero-title {
+.main-nav-title {
     font-weight: 900;
     font-size: 44px;
     line-height: calc(16 / 12);
@@ -67,17 +67,17 @@ body {
 
 }
 
-.hero-btn {
+.main-nav-btn {
     font-weight: 700;
     font-size: 30px;
     line-height: calc(16 / 12);
     letter-spacing: 0.06em;
     color: #FFFFFF;
-    background: #2196F3;
+    background:;
 }
 
-/* PECUL */
-.pecul-title {
+/* PROJECT */
+.projekt-title {
     font-weight: 700;
     font-size: 14px;
     line-height: calc(16 / 12);
@@ -86,7 +86,7 @@ body {
 
 }
 
-.pecul-title-before {
+.projekt-title-before {
     font-weight: 400;
     font-size: 14px;
     line-height: calc(16 / 12);
@@ -94,8 +94,8 @@ body {
     color: #757575;
 }
 
-/* DOING */
-.doing-title {
+/* FOOTER */
+.footer-title {
     font-weight: 700;
     font-size: 36px;
     line-height: calc(16 / 12);
@@ -129,4 +129,15 @@ body {
     line-height: calc(16 / 12);
     letter-spacing: 0.03em;
     color: #212121;
+}
+/* BUTTON*/
+.button {
+
+}
+.button-pimary {
+    
+
+}
+.button-secondary {
+
 }
